@@ -192,12 +192,17 @@ a.link {
       right: 35px;
       font-size: 35px;
    }
+
+   .about {
+      overflow: hidden;
+   }
 }
 
 @media (max-width: 550px) {
    .form__title {
       display: none;
    }
+
    .navbar__title {
       font-size: 35px;
    }
