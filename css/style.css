@@ -157,7 +157,7 @@ li a {
 }
 
 .specials__iteam {
-   width: 386px;
+   /* width: 386px; */
    height: 98px;
    display: flex;
    flex-direction: column;
@@ -563,13 +563,15 @@ input:focus {
    -ms-transition: all .3s linear;
    -o-transition: all .3s linear;
 }
+
 .footer .fa:hover:nth-child(1) {
    color: #fff;
    background-color: blue;
    border-color: blue;
 }
+
 .footer .fa:hover:nth-child(2) {
    color: #fff;
    background-color: purple;
    border-color: purple;
-}  
+}
