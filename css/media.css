@@ -372,6 +372,14 @@ a.link {
    }
 }
 
+@media (max-width: 414px) {
+   .btn__up {
+      bottom: 20px;
+      right: 20px;
+      padding: 12px;
+   }
+}
+
 @media (max-width: 375px) {
    .navbar__title {
       font-size: 30px;

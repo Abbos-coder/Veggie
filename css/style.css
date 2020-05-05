@@ -578,3 +578,15 @@ input:focus {
    background-color: purple;
    border-color: purple;
 }
+
+.btn__up {
+   background: #facf11;
+   position: fixed;
+   bottom: 30px;
+   right: 30px;
+   z-index: 5;
+   color: rgb(126, 126, 126);
+   padding: 15px 15px;
+   border-radius: 8px;
+   font-size: 20px;
+}
