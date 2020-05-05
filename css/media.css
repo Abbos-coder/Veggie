@@ -165,11 +165,16 @@ a.link {
       display: none;
    }
 
+   .contact__iteam {
+      overflow: hidden scroll;
+   }
+
    .contact__body {
       width: 100%;
-      height: 100vh;
+      /* height: 100%; */
       position: absolute;
       background-color: rgba(144, 213, 253, 0.603);
+      overflow: scroll;
    }
 }
 
