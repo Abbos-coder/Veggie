@@ -12,9 +12,6 @@ jQuery(document).ready(function () {
     });
     close.click(function () {
         nav.slideUp(800);
-    });
-
-    var navbar = $('.navbar__menu a');
-
+    })
 
 });
